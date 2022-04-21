@@ -32,7 +32,7 @@ elButton.addEventListener("click", function(e){
   var notAllowed = "Kirish mumkin emas ! Hali yoshsiz !!!";
   
 
-  if (amount = ""){
+  if (amount == ""){
     return
   }
 
